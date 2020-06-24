@@ -1,1 +1,2 @@
-Name	Registry Name	Description	Rev Sequence (use 'continue' for '...')	Store	Hidden (boolean)	"Types (use ""|"" delim)"	"Formats (use ""|"" delim)"	Default Format	Locking (boolean)	"State Names (in order-use ""|"" delim)"	"State Registry Names (in order-use ""|"" delim)"
+Name	Registry Name	Description	Rev Sequence (use 'continue' for '...')	Store	Hidden (boolean)	"Types (use ""|"" delim)"	"Formats (use ""|"" delim)"	Default Format	Locking (boolean)	"State Names (in order-use ""|"" delim)"	"State Registry Names (in order-use ""|"" delim)"	
+Workspace	Project	Policy for creating projects		STORE	FALSE	Workspace	generic	generic	FALSE	Create | Assign | Active | Review | Complete | Archive | Abandon	Create | Assign | Active | Review | Complete | Archive | Abandon	TRUE
